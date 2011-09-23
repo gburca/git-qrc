@@ -1,0 +1,9 @@
+DESCRIPTION
+===========
+
+A Quick Reference Card that shows all the GIT commands with a short description
+for each of them.
+
+To compile the TeX file to PDF:
+
+	pdftex git-qrc.tex
