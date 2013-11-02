@@ -1,9 +1,11 @@
 DESCRIPTION
 ===========
 
-A Quick Reference Card that shows all the GIT commands with a short description
-for each of them.
+Two Quick Reference Cards for working with GIT. The first one shows all the GIT
+commands with a short description for each of them. The second one shows the
+keyboard shortcuts available in TIG (the text-mode interface for git).
 
-To compile the TeX file to PDF:
+To compile the TeX files to PDF:
 
 	pdftex git-qrc.tex
+	pdftex tig-qrc.tex
